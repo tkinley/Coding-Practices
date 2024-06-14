@@ -6,6 +6,7 @@ This repository contains coding practice problems to improve your Python program
 
 The repository is organized as follows:
 
+```
 coding_practices/
 ├── python_basics/
 │   ├── chapter1/
@@ -17,3 +18,4 @@ coding_practices/
 │   │   ├── problem_2.py
 │   │   ├── README.md
 ├── README.md
+```
