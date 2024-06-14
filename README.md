@@ -32,5 +32,10 @@ Each chapter contains several problems. Each problem is solved in a separate Pyt
 
 Contributions are welcome! If you have a problem you'd like to see solved or have a solution to improve, feel free to open an issue or submit a pull request.
 
+### Acknowledgements
 
+Problems are from the Python 3 Programming Specialization course by the University of Michigan on Coursera. All rights to the original problems are reserved by their respective authors.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
